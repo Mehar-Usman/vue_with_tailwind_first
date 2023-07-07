@@ -24,7 +24,6 @@ export default {
         { text: '1-877-YLOWCAB(9569222)', href: '#' },
         { text: 'Order a cab online', href: '#' }
       ],
-
       socialLinks : ['twitter', 'facebook-f', 'google-plus-g']
     }
   }

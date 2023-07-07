@@ -96,7 +96,7 @@ import CardYellow from "../components/cardYellow.vue";
 import FeaturesYellow from "../components/featuresYellow.vue";
 import FooterPart from "../components/footerPart.vue";
 import Navbar from "../components/navbar.vue";
-import ChildHeader from "../components/TopHeader.vue";
+import TopHeader from "../components/TopHeader.vue";
 
 export default {
   name: "yellowCab",
